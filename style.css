@@ -466,9 +466,8 @@ input[type="submit"] {
     }
 
     #intro img {
-        width: 100%;
-        margin-top: 70px;
-        margin-left: auto;
+        width: 70%;
+        margin-top: 53%;
     }
 
     #about {
@@ -480,7 +479,11 @@ input[type="submit"] {
     }
 
     .home_data h1 {
-        font-size: 25px;
+        font-size: 23px;
+    }
+
+    .home_data button{
+        margin: 10px 0px;
     }
 
     .home_social {
